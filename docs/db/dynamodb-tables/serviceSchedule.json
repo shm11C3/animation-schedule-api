@@ -1,0 +1,5 @@
+{
+  "PK": "service#serviceId",
+  "SK": "schedule#scheduleId",
+  "animeId": "animeId"
+}

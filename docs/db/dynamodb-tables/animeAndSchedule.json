@@ -1,0 +1,13 @@
+{
+  "PK": "anime#animeId",
+  "SK": "season#season || datetime#datetime",
+  "GSI1PK": "season#season",
+  "GSI1SK": "anime#animeId",
+  "GSI2PK": "datetime#datetime",
+  "GSI2SK": "anime#animeId",
+  "title": "string",
+  "description": "string",
+  "genres": ["string"],
+  "created_at": "string",
+  "deleted_at": "string"
+}
