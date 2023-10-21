@@ -1,0 +1,6 @@
+{
+  "PK": "service#serviceId",
+  "SK": "isTelevision#isTelevision ",
+  "serviceName": "string",
+  "isTelevision": "boolean"
+}
